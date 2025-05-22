@@ -1,3 +1,3 @@
-# .github
+# README
 
 Hi together! 🤘
